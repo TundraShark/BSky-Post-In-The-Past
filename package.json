@@ -1,0 +1,13 @@
+{
+  "name": "bsky-post-in-the-past",
+  "author": "Tundra Shark",
+  "homepage": "https://tundrashark.com/",
+  "version": "1.0.0",
+  "description": "Sample code for making Bluesky posts in the past",
+	"type": "module",
+  "dependencies": {
+    "axios": "^1.6.5",
+    "dotenv": "^16.4.5",
+    "mime": "^4.0.1"
+  }
+}
