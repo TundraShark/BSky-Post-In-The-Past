@@ -1,6 +1,8 @@
-# BSky Post In The Past
+# Bluesky Post In The Past
 
-Install the packages using your preferred package manager
+DISCLAIMER: It's possible that this is unintended behavior by the Bluesky team, and therefore this API "feature" may be removed at any time!
+
+Install the packages using your preferred package manager. Pick one of the three installation commands below:
 
 ```
 npm install
